@@ -16,7 +16,7 @@ Review - contains reviews about different movies and web series connected to Use
 # user_app
 It handels Registration, Login and Logout
 
-# --------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# ------------------------------------------------------
 
 
 This project covers many major topics like Authentication, Token authentication, JWT authentication, different permissions, Throttling, Filtering, Searching, Ordering, Pagination, etc. Test cases for automated api testing is also written.
