@@ -9,8 +9,11 @@ This manage.py utility provides various commands that you must have while workin
 
 # watchlist_app
 This is main app of project which contains StreamPlatform, Review, Watchlist models 
+
 StreamPlatform - contains various streaming channels, information about them and their websites.Only the admin has permission to create, remove or update these.
+
 WatchList - contains different web series and movies, connected to StreamPlatform with foregin key. Only admin has permission to create, delete or update them
+
 Review - contains reviews about different movies and web series connected to User and WatchList with foregin key. Any user can view reviews, only authenticated users can          create a review and the user who creates review and admin can delete and update review
 
 # user_app
